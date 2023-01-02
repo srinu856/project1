@@ -35,7 +35,7 @@ jobs:
         run: docker --version
       - name: terraform version
         run: terraform --version
-      - name: paython version
-        run : paython --version
+      - name: python version
+        run : python --version
       
         
